@@ -1,0 +1,8 @@
+factor_id,category,subcategory,factor_value,unit,region,source,source_year
+EF_ELECTRICITY_INDIA,energy,grid_electricity,0.827,kgCO2/kWh,India,Central Electricity Authority CO2 Baseline Database,2022-23
+TF_PRIVATE_CAR_INDIA,transport,private_car,0.17,kgCO2e/passenger_km,India,India Specific Road Transport Emission Factors - India GHG Program/WRI,2015
+TF_CITY_BUS_INDIA,transport,intracity_bus,0.015161,kgCO2/passenger_km,India,India Specific Road Transport Emission Factors - India GHG Program/WRI,2015
+FOOD_VEG_MEAL,food,vegetarian_meal,0.5,kgCO2e/meal,India,Development placeholder,2026
+FOOD_MIXED_MEAL,food,mixed_meal,2.0,kgCO2e/meal,India,Development placeholder,2026
+WASTE_MIXED,waste,mixed_waste,0.5,kgCO2e/kg,India,Development placeholder,2026
+MATERIAL_REUSABLE,materials,reusable_material,0.2,kgCO2e/kg,India,Development placeholder,2026

@@ -1,0 +1,8 @@
+# -----------------------------------------------------
+# ML TRAVEL CARBON PREDICTION
+# -----------------------------------------------------
+
+ml_prediction = predict_event_travel_carbon(
+    participants=request.attendees,
+    distance_km=request.distance_km
+)
